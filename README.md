@@ -22,5 +22,5 @@ I’m working on our Capstone Project as a backend web programmer while learning
   <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman&theme=dark" alt="Tools"/>
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=barcelos-kevin&show_icons=true&theme=gold-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=barcelos-kevin&theme=gold-green&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=barcelos-kevin&show_icons=true&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=barcelos-kevin&theme=blue-green&hide_border=false)
