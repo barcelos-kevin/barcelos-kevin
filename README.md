@@ -23,7 +23,7 @@ I’m working on our Capstone Project as a backend web programmer while learning
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=barcelos-kevin&layout=compact&theme=dark&bg_color=0d1117&title_color=FFD700&text_color=7CFC00" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=barcelos-kevin&layout=compact&theme=dark&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e" alt="Top Languages" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=barcelos-kevin&theme=dark&background=0d1117&border=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=7CFC00&currStreakNum=FFD700&sideLabels=7CFC00&sideNums=FFD700&dates=7CFC00&hide_border=false" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=barcelos-kevin&theme=dark&background=0d1117&border=30363d&ring=8b949e&fire=8b949e&currStreakLabel=c9d1d9&currStreakNum=c9d1d9&sideLabels=8b949e&sideNums=c9d1d9&dates=8b949e&hide_border=false" alt="GitHub Streak" />
 </div>
