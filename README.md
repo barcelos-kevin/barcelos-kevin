@@ -23,9 +23,9 @@ I’m working on our Capstone Project as a backend web programmer while learning
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=barcelos-kevin&layout=compact&theme=dark&bg_color=0d1117&title_color=FFD700&text_color=7CFC00" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=barcelos-kevin&layout=compact&theme=dark&bg_color=0d1117&title_color=FFD700&text_color=7CFC00"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=barcelos-kevin&show_icons=true&theme=dark&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=7CFC00&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=barcelos-kevin&show_icons=true&theme=dark&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=7CFC00&hide_border=false&include_all_commits=false&count_private=false"/>
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=barcelos-kevin&theme=dark&background=0d1117&border=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=7CFC00&currStreakNum=FFD700&sideLabels=7CFC00&sideNums=FFD700&dates=7CFC00&hide_border=false" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=barcelos-kevin&theme=dark&background=0d1117&border=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=7CFC00&currStreakNum=FFD700&sideLabels=7CFC00&sideNums=FFD700&dates=7CFC00&hide_border=false"/>
 </div>
