@@ -5,6 +5,7 @@ I study at the **Polytechnic University of the Philippines, Taguig Campus**.
 ## 🔭 Current Activity
 I’m working on our Capstone Project as a backend web programmer while learning a new programming language. I’m also seeking on-the-job training opportunities to sharpen my skills and learn more.
 
+[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-GitHub%20Pages-0e4b5f?style=for-the-badge)](https://barcelos-kevin.github.io/Web-Portfolio/)
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
