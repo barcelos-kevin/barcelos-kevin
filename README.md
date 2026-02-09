@@ -25,5 +25,5 @@ I’m working on our Capstone Project as a backend web programmer while learning
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=barcelos-kevin&layout=compact&theme=dark&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=barcelos-ke&theme=dark&hide_border=true&short_numbers=true&ring=77EB1F&sideNums=EBD50C" alt="GitHub Streak"" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=barcelos-kevin&theme=dark&hide_border=true&short_numbers=true&ring=77EB1F&sideNums=EBD50C" alt="GitHub Streak"" />
 </div>
